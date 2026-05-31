@@ -1,2 +1,1 @@
-# ai-learning-log
-ai-learning-log
+分享我的学习ai的心得。
